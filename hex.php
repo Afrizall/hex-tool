@@ -1,5 +1,5 @@
 <?php
-// Coded By Afrizal F.A
+// Coded By Afrizal F.A - ICWR-TECH
 // Str To Hex & Hex To Str
 // Char Code Tool
 error_reporting(0);
