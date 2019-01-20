@@ -10,4 +10,4 @@ $ php hex.php hex "char"
 
 Unhexing
 
-$ php hex.php unhex "char"
+$ php hex.php unhex "hex"
